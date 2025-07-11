@@ -15,4 +15,9 @@ public class RateLimiting {
 
 		// new method
 	}
+	
+	private void m3() {
+		// TODO Auto-generated method stub
+
+	}
 }
